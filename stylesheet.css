@@ -3,6 +3,16 @@
     margin: auto;
     position: relative;
     top: 190px;
-    width: 21%;
-    height: 21%;
+    width: 272px;
+    height: 92px;
+}
+
+#search {
+   text-align: center;
+   margin-top: 225px;    
+}
+
+#searchBar {
+    width: 600px;
+    height: 35px;
 }
