@@ -13,6 +13,42 @@
 }
 
 #searchBar {
-    width: 600px;
+    width: 475px;
     height: 35px;
+    font-size: 18px;
+}
+
+/*#search center {
+     margin-top: 30px;
+     font-size: 14px;
+}*/
+
+input[type=submit]{
+    margin-top: 30px;
+    font-size: 13px;
+    text-align: center;
+    font-weight: bold;
+    color: grey;
+    height: 35px;
+    width: 135px;
+    border:none;
+    background-color: rgb(242, 243, 244);
+}
+
+.navBar {
+    position: absolute;
+    right: 10px;
+}
+
+.navBar a {
+    display: inline-block;
+    margin-top: 5px;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 14px;
+    color: black;
+}
+
+.navBar a:hover {
+    text-decoration: underline;
 }
